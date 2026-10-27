@@ -1,1 +1,2 @@
-Change from feature branch - feature test
+Change from main - conflict test 
+Change from feature branch - conflict test
